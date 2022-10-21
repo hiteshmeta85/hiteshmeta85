@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitesh Meta</h1>
-<h3 align="center">I build web apps! I'm a Full-Stack Web Developer and a Third-year Computer Science Student, pursuing my degree from Pillai College of Engineering (Mumbai University), currently living in Mumbai, India.</h3>
+<h3 align="center">I build web apps! I'm a Full-Stack Web Developer👨🏻‍💻 and a Third-year Computer Science Student👨🏻‍🎓, pursuing my degree from Pillai College of Engineering (Mumbai University)🏫, currently living in Mumbai, India.🇮🇳</h3>
 
 - 🌱 I’m currently learning **T3 stack and next**
 
