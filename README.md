@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hitesh Meta</h1>
-<h3 align="center">I build web apps! I'm a Full-Stack Web Developer👨🏻‍💻 and a Third-year Computer Science Student👨🏻‍🎓, pursuing my degree from Pillai College of Engineering (Mumbai University)🏫, currently living in Mumbai, India.🇮🇳</h3>
+<h3 align="center">I build web apps! I'm a Full-Stack Web Developer👨🏻‍💻 and a Third-year Computer Science Student👨🏻‍🎓</h3>
 
 - 🌱 I’m currently learning **T3 stack and next**
+
+- 🏫 Pursuing my degree from **Pillai College of Engineering (Mumbai University)**
+
+- 📍 Currently living in **Navi Mumbai, India🇮🇳**
 
 - 👨‍💻 My personal website is [https://hitesh-meta.netlify.app/](https://hitesh-meta.netlify.app/)
 
