@@ -7,7 +7,7 @@
 
 - 📍 Currently living in **Navi Mumbai, India🇮🇳**
 
-- 👨‍💻 My personal website is [https://hitesh-meta.netlify.app/](https://hitesh-meta.netlify.app/)
+- 👨‍💻 My personal website is [hiteshmeta.vercel.app](https://hiteshmeta.vercel.app)
 
 - 💬 Ask me about **react, tailwind, next and express**
 
