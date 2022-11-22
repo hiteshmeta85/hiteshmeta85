@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hitesh Meta</h1>
-<h3 align="center">I build web apps! I'm a Full-Stack Web Developer👨🏻‍💻 and a Third-year Computer Science Student👨🏻‍🎓</h3>
+<h3 align="center">I build web apps!</h3>
+&nbsp;
+
+- 👨🏻‍💻 A **Full-Stack Web Developer**
 
 - 🌱 I’m currently learning **T3 stack and next**
 
@@ -12,6 +15,8 @@
 - 💬 Ask me about **react, tailwind, next and express**
 
 - 📫 How to reach me **meta.hitesh85@gmail.com**
+
+&nbsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
