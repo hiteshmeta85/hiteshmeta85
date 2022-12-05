@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 A **Full-Stack Web Developer**
 
-- 🌱 I’m currently learning **T3 stack and next**
+- 🌱 I’m currently learning **AdonisJs, NextJs and Typescript**
 
 - 🏫 Pursuing my degree from **Pillai College of Engineering (Mumbai University)**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, tailwind, next and express**
 
-- 📫 How to reach me **meta.hitesh85@gmail.com**
+- 📫 How to reach me meta.hitesh85@gmail.com
 
 &nbsp;
 
