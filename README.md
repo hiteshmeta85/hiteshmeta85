@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 A **Full-Stack Web Developer**
 
-- 🌱 I’m currently learning **AdonisJs, NextJs and Typescript**
+- 🌱 I’m currently learning **Typescript, Prisma, Trpc**
 
 - 🏫 Pursuing my degree from **Pillai College of Engineering (Mumbai University)**
 
