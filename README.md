@@ -2,9 +2,8 @@
 
 Exploring the world of JavaScript. Delivering end-to-end web solutions.
 
-- 🖥️ Software Developer
+- 🖥️ Software Engineer
 - 🛠️ NextJS, TypeScript, NodeJS
-- 👨‍💼 Technical Head @CSI-PCE
 - 🏆 SIH '22 Winner
 
 🔗 Let's Connect:
