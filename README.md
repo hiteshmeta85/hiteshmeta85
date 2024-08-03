@@ -8,7 +8,7 @@ Exploring the world of JavaScript. Delivering end-to-end web solutions.
 
 🔗 Let's Connect:
 [Website](https://hiteshmeta.vercel.app/)
-[LinkedIn](https://www.linkedin.com/in/hitesh-meta/)
-[Twitter](https://twitter.com/MetaHitesh85/)
+[LinkedIn](https://www.linkedin.com/in/hiteshmeta/)
+[Twitter](https://twitter.com/hiteshmeta/)
 
 ✉️ Mail: meta.hitesh85@gmail.com
